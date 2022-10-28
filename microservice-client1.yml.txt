@@ -1,0 +1,7 @@
+server:
+  port:8090
+  contextPath: /api
+spring:
+  application:
+    name: microservice-client1
+	
